@@ -1,1 +1,0 @@
-<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); ?><?php echo $before.$html.$after; ?><?php $_ = OutlineRuntime::finish(__FILE__); ?>

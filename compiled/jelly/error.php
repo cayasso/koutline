@@ -1,1 +1,0 @@
-<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); $_->init_runtime('system'); ?><span<?php echo HTML::attributes($attributes); ?>><?php echo $text; ?></span><?php $_ = OutlineRuntime::finish(__FILE__); ?>

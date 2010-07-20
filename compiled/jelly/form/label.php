@@ -1,1 +1,0 @@
-<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); ?><?php echo $before.Form::label($input, $text, $attributes).$after; ?><?php $_ = OutlineRuntime::finish(__FILE__); ?>

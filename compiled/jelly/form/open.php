@@ -1,1 +1,0 @@
-<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); ?><?php echo PHP_EOL.PHP_EOL.$before.PHP_EOL.'<!-- begin form -->'.PHP_EOL.Form::open($action, $attributes).PHP_EOL.$after; ?><?php $_ = OutlineRuntime::finish(__FILE__); ?>

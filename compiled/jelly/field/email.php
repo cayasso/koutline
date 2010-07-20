@@ -1,1 +1,0 @@
-<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); ?><?php echo Form::email($name, $value, $attributes + array('id' => 'field-'.$name)); ?><?php $_ = OutlineRuntime::finish(__FILE__); ?>
