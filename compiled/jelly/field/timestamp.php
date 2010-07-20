@@ -1,0 +1,1 @@
+<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); ?><?php echo Form::date($name, date($pretty_format, $value), $attributes + array('id' => 'field-'.$name)); ?><?php $_ = OutlineRuntime::finish(__FILE__); ?>

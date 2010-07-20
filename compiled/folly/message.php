@@ -1,0 +1,1 @@
+<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); $_->init_runtime('system'); ?><span class="flash-message"><?php echo $message; ?></span><?php $_ = OutlineRuntime::finish(__FILE__); ?>

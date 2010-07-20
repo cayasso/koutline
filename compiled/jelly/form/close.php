@@ -1,0 +1,1 @@
+<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); ?><?php echo $before.PHP_EOL.Form::close().PHP_EOL.'<!-- end form -->'.PHP_EOL.$after.PHP_EOL.PHP_EOL; ?><?php $_ = OutlineRuntime::finish(__FILE__); ?>

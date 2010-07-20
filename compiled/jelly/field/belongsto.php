@@ -1,0 +1,1 @@
+<?php $_ = OutlineRuntime::start(__FILE__, isset($this) ? $this : null); ?><?php echo Form::select($name, $options, $value->id(), $attributes + array('id' => 'field-'.$name)); ?><?php $_ = OutlineRuntime::finish(__FILE__); ?>
