@@ -117,4 +117,4 @@ abstract class Kohana_Koutline {
 		return ob_get_clean();
 	}
 
-} // End Koutline
+} // End Kohana_Koutline

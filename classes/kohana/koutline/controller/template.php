@@ -1,13 +1,5 @@
 <?php defined('SYSPATH') or die('No direct script access.');
-/**
- * Abstract controller class for automatic templating.
- *
- * @package    Kohana
- * @category   Controller
- * @author     Kohana Team
- * @copyright  (c) 2008-2009 Kohana Team
- * @license    http://kohanaphp.com/license
- */
+
 abstract class Kohana_Koutline_Controller_Template extends Controller {
 	
 	/**
